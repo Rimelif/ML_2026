@@ -39,8 +39,7 @@
 ├── main.py
 ├── model.py
 ├── utils.py
-├── README.md
-└── CHANGELOG.md
+└── README.md
 ```
 
 ## 环境
@@ -274,4 +273,3 @@ results/wg_tcn_transformer/*_metrics.csv
 
 - 训练/测试损失曲线
 - 预测值与真实值对比图
-
